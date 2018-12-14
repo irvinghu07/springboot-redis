@@ -1,0 +1,4 @@
+server:
+  servlet:
+    context-path: /redisTest
+  port: 8077
