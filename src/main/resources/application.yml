@@ -2,3 +2,7 @@ server:
   servlet:
     context-path: /redisTest
   port: 8077
+spring:
+  redis:
+    port: 6379
+    host: localhost
